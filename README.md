@@ -1,4 +1,4 @@
-# Laravel Based Skills Test 👋🏼
+# Laravel Based Skills Test 👾
 
 ![Cuhu](https://s3.eu-west-2.amazonaws.com/cdn.cuhu.co.uk/app/uploads/2021/02/15140001/cuhu.jpg)
 
