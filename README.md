@@ -16,6 +16,7 @@ This is not designed to trick you, it is simply an excercise to determine how yo
 
 - `git clone git@github.com:cuhu/laravel-skills-test.git`
 - `composer install`
+- Copy `.env.example` to `.env` 
 
 If changing any front-end:
 
