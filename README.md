@@ -1,5 +1,7 @@
 # Laravel Based Skills Test 👋🏼
 
+![Cuhu][https://s3.eu-west-2.amazonaws.com/cdn.cuhu.co.uk/app/uploads/2021/02/15140001/cuhu.jpg]
+
 We understand it can be difficult to express coding experience during an interview so as part of the selection process we have built a simple Laravel based interface to judge how you approach programming tasks.
 
 In this repository you will find a brand new Laravel install (as of 15th Feb 2021), this contains some blade files styled with Tailwind CSS.
