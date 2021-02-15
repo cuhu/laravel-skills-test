@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.content {
+    h1 {
+        @apply font-bold text-2xl mb-8 block;
+    }
+}
