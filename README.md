@@ -1,6 +1,6 @@
 # Laravel Based Skills Test 👋🏼
 
-![Cuhu][https://s3.eu-west-2.amazonaws.com/cdn.cuhu.co.uk/app/uploads/2021/02/15140001/cuhu.jpg]
+![Cuhu](https://s3.eu-west-2.amazonaws.com/cdn.cuhu.co.uk/app/uploads/2021/02/15140001/cuhu.jpg)
 
 We understand it can be difficult to express coding experience during an interview so as part of the selection process we have built a simple Laravel based interface to judge how you approach programming tasks.
 
